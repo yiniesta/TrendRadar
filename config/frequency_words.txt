@@ -1,5 +1,27 @@
-胖东来
-于东来
+人工智能
+AI
+ChatGPT
+
+AI编程
+Claude Code
+Cursor
+Windsurf
+Qoder
+Trae
+
+自动化工具
+AutoGPT
+LangChain
+
+github
+
+数据可视化
+D3.js
+ECharts
+
+大语言模型
+Llama
+Qwen
 
 DeepSeek
 梁文锋
@@ -23,25 +45,6 @@ DJI
 稚晖君
 彭志辉
 
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
-
 京东
 刘强东
 
@@ -59,12 +62,11 @@ Microsoft
 NVIDIA
 黄仁勋
 
-AMD
-
 谷歌
 google
 gemini
 deepmind
+nano banana
 
 chatgpt
 openai
@@ -94,16 +96,8 @@ ai
 韩国
 
 芯片
-光刻机
 
 科技
-
-核能
-
-水电站
-雅鲁藏布江
-
-新质生产力
 
 月球
 登月

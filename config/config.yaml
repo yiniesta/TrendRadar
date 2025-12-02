@@ -51,7 +51,7 @@ notification:
     # 如果想要精准的定时推送，建议使用 Docker 部署在个人服务器上
     time_range:
       start: "19:00"  # 推送时间窗口开始（北京时间）
-      end: "21:00"    # 推送时间窗口结束（北京时间）
+      end: "20:10"    # 推送时间窗口结束（北京时间）
     once_per_day: true  # 每天在时间窗口内只推送一次，如果 false，则窗口内每次执行都推送
     push_record_retention_days: 7  # 推送记录保留天数
 
@@ -106,10 +106,6 @@ platforms:
     name: "澎湃新闻"
   - id: "ifeng"
     name: "凤凰网"
-  - id: "cankaoxiaoxi"
-    name: "参考消息"
-  - id: "sputniknewscn"
-    name: "卫星通讯社"
   - id: "zaobao"
     name: "联合早报"
   - id: "mktnews"
@@ -120,8 +116,6 @@ platforms:
     name: "华尔街见闻"
   - id: "bilibili-hot-search"
     name: "bilibili 热搜"
-  - id: "cls-hot"
-    name: "财联社热门"
   - id: "tieba"
     name: "贴吧"
   - id: "weibo"
@@ -139,14 +133,10 @@ platforms:
     name: "GitHub"
   - id: "hackernews"
     name: "Hacker News"
-  - id: "solidot"
-    name: "Solidot"
   - id: "v2ex"
     name: "V2EX"
   - id: "nowcoder"
     name: "牛客网"
-  - id: "pcbeta"
-    name: "远景论坛"
   - id: "sspai"
     name: "少数派"
   - id: "producthunt"

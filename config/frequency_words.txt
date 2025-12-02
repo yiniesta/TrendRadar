@@ -16,7 +16,7 @@ LangChain
 github
 
 数据可视化
-D3.js
+BI
 ECharts
 
 大语言模型
@@ -31,11 +31,8 @@ DeepSeek
 HarmonyOS
 任正非
 
-比亚迪
-王传福
-
-大疆
-DJI
+小米
+雷军
 
 宇树
 王兴兴
@@ -75,33 +72,10 @@ sora
 claude
 Anthropic
 
-iphone
-ipad
-mac
-ios
-
-ai
-!gai
-人工智能
-
 自动驾驶
 
 机器人
 
-国产
-中国
-
-美国
-日本
-韩国
-
 芯片
 
 科技
-
-月球
-登月
-火星
-宇宙
-飞船
-航空

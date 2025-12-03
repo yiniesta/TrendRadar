@@ -1,11 +1,17 @@
 人工智能
 AI
-ChatGPT
+Gemini
+
+chatgpt
+openai
+sora
+
+claude
+Anthropic
 
 AI编程
 Claude Code
 Cursor
-Windsurf
 Qoder
 Trae
 
@@ -19,16 +25,13 @@ github
 BI
 ECharts
 
-大语言模型
-Llama
-Qwen
-
 DeepSeek
-梁文锋
+Kimi
+Doubao
+千问
+灵光
 
 华为
-鸿蒙
-HarmonyOS
 任正非
 
 小米
@@ -36,11 +39,6 @@ HarmonyOS
 
 宇树
 王兴兴
-
-智元
-灵犀
-稚晖君
-彭志辉
 
 京东
 刘强东
@@ -61,16 +59,8 @@ NVIDIA
 
 谷歌
 google
-gemini
 deepmind
 nano banana
-
-chatgpt
-openai
-sora
-
-claude
-Anthropic
 
 自动驾驶
 
